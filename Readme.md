@@ -16,5 +16,5 @@
 
 # 联系方式
 
-yupeng8@xiaomi.com
+mi-cyberdog@xiaomi.com
 
